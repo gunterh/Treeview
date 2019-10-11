@@ -9,7 +9,7 @@ const Div = styled.div`
 `;
 
 const A = styled.a`
-  margin-right: 20px;
+  margin-right: 24px;
 `;
 
 const Grid = styled.div`
